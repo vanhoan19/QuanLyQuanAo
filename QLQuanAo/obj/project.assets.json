@@ -1,0 +1,315 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Guna.UI2.WinForms/2.0.4.5": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net472/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net472/Guna.UI2.dll": {}
+        }
+      },
+      "Microsoft.Office.Interop.Excel/15.0.4795.1001": {
+        "type": "package",
+        "compile": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        },
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        }
+      },
+      "PagedList/1.17.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/PagedList.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/PagedList.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Guna.UI2.WinForms/2.0.4.5": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net472/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net472/Guna.UI2.dll": {}
+        }
+      },
+      "Microsoft.Office.Interop.Excel/15.0.4795.1001": {
+        "type": "package",
+        "compile": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        },
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        }
+      },
+      "PagedList/1.17.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/PagedList.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/PagedList.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-arm64": {
+      "Guna.UI2.WinForms/2.0.4.5": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net472/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net472/Guna.UI2.dll": {}
+        }
+      },
+      "Microsoft.Office.Interop.Excel/15.0.4795.1001": {
+        "type": "package",
+        "compile": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        },
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        }
+      },
+      "PagedList/1.17.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/PagedList.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/PagedList.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Guna.UI2.WinForms/2.0.4.5": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net472/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net472/Guna.UI2.dll": {}
+        }
+      },
+      "Microsoft.Office.Interop.Excel/15.0.4795.1001": {
+        "type": "package",
+        "compile": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        },
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        }
+      },
+      "PagedList/1.17.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/PagedList.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/PagedList.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Guna.UI2.WinForms/2.0.4.5": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Design",
+          "System.Management",
+          "System.Web"
+        ],
+        "compile": {
+          "lib/net472/Guna.UI2.dll": {}
+        },
+        "runtime": {
+          "lib/net472/Guna.UI2.dll": {}
+        }
+      },
+      "Microsoft.Office.Interop.Excel/15.0.4795.1001": {
+        "type": "package",
+        "compile": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        },
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        }
+      },
+      "PagedList/1.17.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/PagedList.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/PagedList.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guna.UI2.WinForms/2.0.4.5": {
+      "sha512": "lR50db4NzBC0QLAr27q9nrpYsIfWKjOgGnROrPi8AxbwLFE3nTup6ZOpVE/vbrr86eLV//8ys9sIW7j0ix2h+Q==",
+      "type": "package",
+      "path": "guna.ui2.winforms/2.0.4.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "guna.ui2.winforms.2.0.4.5.nupkg.sha512",
+        "guna.ui2.winforms.nuspec",
+        "icon.png",
+        "lib/net40/Guna.UI2.dll",
+        "lib/net45/Guna.UI2.dll",
+        "lib/net461/Guna.UI2.dll",
+        "lib/net472/Guna.UI2.dll",
+        "lib/net48/Guna.UI2.dll",
+        "lib/net6.0-windows7.0/Guna.UI2.dll",
+        "lib/net7.0-windows7.0/Guna.UI2.dll",
+        "lib/netcoreapp3.1/Guna.UI2.dll"
+      ]
+    },
+    "Microsoft.Office.Interop.Excel/15.0.4795.1001": {
+      "sha512": "cuvqi/U5MYSM0gvR2l90q0m/urRgmg69EiwP5VWp1RcaJ0YT5G26Va5LaOZ3KJFc22FNihS5CUjeePUp2YpGQA==",
+      "type": "package",
+      "path": "microsoft.office.interop.excel/15.0.4795.1001",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Microsoft.Office.Interop.Excel.dll",
+        "lib/netstandard2.0/Microsoft.Office.Interop.Excel.dll",
+        "microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+        "microsoft.office.interop.excel.nuspec"
+      ]
+    },
+    "PagedList/1.17.0": {
+      "sha512": "Ou6F3WKXh49hOo0TxWM+SkIGuKllYPuPPvnSYOlQ1sTrtuEyuDUhYbSJd5Sdb06i/sWUJZTjiUecEs3Ht/Hx3g==",
+      "type": "package",
+      "path": "pagedlist/1.17.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/PagedList.dll",
+        "lib/net40/PagedList.xml",
+        "pagedlist.1.17.0.nupkg.sha512",
+        "pagedlist.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Guna.UI2.WinForms >= 2.0.4.5",
+      "Microsoft.Office.Interop.Excel >= 15.0.4795.1001",
+      "PagedList >= 1.17.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Lập trình trực quan C#\\QLQuanAo\\QLQuanAo.csproj",
+      "projectName": "QLQuanAo",
+      "projectPath": "E:\\Lập trình trực quan C#\\QLQuanAo\\QLQuanAo.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "E:\\Lập trình trực quan C#\\QLQuanAo\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Guna.UI2.WinForms": {
+            "target": "Package",
+            "version": "[2.0.4.5, )"
+          },
+          "Microsoft.Office.Interop.Excel": {
+            "target": "Package",
+            "version": "[15.0.4795.1001, )"
+          },
+          "PagedList": {
+            "target": "Package",
+            "version": "[1.17.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

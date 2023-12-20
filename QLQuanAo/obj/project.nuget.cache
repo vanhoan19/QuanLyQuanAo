@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+BGXStnfPi3lTbpaerFsc18tookdyLC+GJzqNVPx4wrm80IWqieE1tFdAkar04YfSC2isUwbLDUEozDee3+19g==",
+  "success": true,
+  "projectFilePath": "E:\\Lập trình trực quan C#\\QLQuanAo\\QLQuanAo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.5\\guna.ui2.winforms.2.0.4.5.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\pagedlist\\1.17.0\\pagedlist.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
